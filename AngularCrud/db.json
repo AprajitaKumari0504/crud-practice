@@ -1,0 +1,56 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "firstname": "Aprajita",
+      "lastname": "sdfghsdfg",
+      "email": "sdfghj",
+      "mobile": 45678,
+      "salary": 4567
+    },
+    {
+      "id": 2,
+      "firstname": "Goldi",
+      "lastname": "sdfgh",
+      "email": "sdfg",
+      "mobile": 3456,
+      "salary": 4567
+    },
+    {
+      "id": 3,
+      "firstname": "Niku",
+      "lastname": "asdf",
+      "email": "asd",
+      "mobile": 3456,
+      "salary": 2345
+    },
+    {
+      "id": 4,
+      "firstname": "goldi",
+      "lastname": "goldi",
+      "email": "goldi@gmail.com",
+      "mobile": 8787878787,
+      "salary": 76765
+    },
+    {
+      "id": 5,
+      "firstname": "Kalyani",
+      "lastname": "sdf",
+      "email": "sdf",
+      "mobile": 654,
+      "salary": 456
+    },
+    {
+      "id": 7,
+      "firstname": "goldi",
+      "lastname": "rajput",
+      "email": "goldi@gmail.com",
+      "mobile": 9898989898,
+      "salary": 7878787878
+    }
+  ],
+  "comments": [],
+  "profile": {
+    "name": "typicode"
+  }
+}
